@@ -3,7 +3,7 @@
 import java.util.Scanner; 
 import java.io.FileInputStream;  
 
-public class Solution { 
+public class Solutionaaaaa { 
 
 static int A; // 遺꾩옄1
 static int B; // 遺꾨え1
